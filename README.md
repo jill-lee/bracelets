@@ -1,2 +1,2 @@
 # bracelets
-Live: https://phoenix-burn.github.io/bracelets/
+Live: https://jill-lee.github.io/bracelets/
